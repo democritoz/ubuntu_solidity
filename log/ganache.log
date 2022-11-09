@@ -1,0 +1,321 @@
+ganache v7.5.0 (@ganache/cli: 0.6.0, @ganache/core: 0.6.0)
+Starting RPC server
+
+Available Accounts
+==================
+(0) 0xB832dB85527f4018a88CB4c32d805b15c458655F (1000 ETH)
+(1) 0x386B4060d538f383b496fD8730d7f5F9a709845a (1000 ETH)
+(2) 0x827b2E70849fEF5392A51F04Ad35AeE2cFb13A6e (1000 ETH)
+(3) 0x483dc82EBCD79D092c0c742050475360869B28a5 (1000 ETH)
+(4) 0xa5429abf4e3419F0469f34e340F75FBFcbF2d754 (1000 ETH)
+(5) 0x230b750E9b4fAccF5911D70476DefEB170217593 (1000 ETH)
+(6) 0xd6CfeC94Bd3455324A860234e692788662ba7F63 (1000 ETH)
+(7) 0x64088cf49963ab9968F08881e3525A8B34348305 (1000 ETH)
+(8) 0x09639c750F27111C122AB15bD8071A83DEa94d5d (1000 ETH)
+(9) 0x015746d78fF0e90c4cF9E862e54C8B8C17C93f4A (1000 ETH)
+
+Private Keys
+==================
+(0) 0x3c3efec200b7c3ca8b8dc4f83f58666994c5659dedcf9b803339997b78e4f430
+(1) 0x1469b06d1c06e01a14fc54ad0bb24337c7f4ae6e5d3031e8313a031232251f36
+(2) 0xf2b17e4503916ad6157c9d52892651c7015b6f3b989d7d951448bf6922fed6f8
+(3) 0x3a1a7d5252d5cb0e0c3bfef85965c574f5e1b2e233bce0fbac0034ee6e54c41c
+(4) 0x4cf217d9aa5b04884c72d0d6a912a4f6b9c8b6074121d220b8ea0a0b7cfd1d44
+(5) 0xec0877316ae3eb8f003a733b0171aaba943defb238f0df52b22b5ab13a8e7535
+(6) 0x5ad2c1ee785df9768ceed8d5c68706c4287de1e7aeeea2534e1f9487bcd5add7
+(7) 0x390f9fda21f2e6e530106d66cf9ef2707f5cd29b09e57f82212e2964617183c5
+(8) 0xcd59cb46b86057ec7d8cedb347124fcd99fd2012050e5e1a70d7dafdd1d9ff94
+(9) 0xe3d2364689dc5d0206a25b48cbe58052a6b6072f31fbf82cc4bb0d873a66b553
+
+HD Wallet
+==================
+Mnemonic:      tooth soul surround use tissue plug length wink square toilet cover reduce
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Default Gas Price
+==================
+2000000000
+
+BlockGas Limit
+==================
+30000000
+
+Call Gas Limit
+==================
+50000000
+
+Chain Id
+==================
+1337
+
+RPC Listening on 0.0.0.0:8545
+eth_chainId
+eth_chainId
+eth_chainId
+eth_chainId
+eth_chainId
+eth_chainId
+eth_chainId
+eth_blockNumber
+net_version
+eth_getBalance
+eth_getBlockByNumber
+eth_blockNumber
+eth_blockNumber
+eth_getBalance
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+eth_blockNumber
+net_version
+net_version
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_version
+eth_estimateGas
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xed4a243428d136bc68079c94a1ed2b9271b212e40cacc032d89e5f7c911268db
+  Contract created: 0x6ce973cd830f5c5312211957b9e0b434a4ec68b8
+  Gas usage: 200613
+  Block number: 1
+  Block time: Tue Nov 08 2022 09:48:48 GMT+0900 (Korean Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_estimateGas
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xa4743b3eaca5b0a09102f4860522f0929db391514247d4853d115c0e17d7693e
+  Contract created: 0x0fb60c55d1d7e0ed8d50e35e0c1c5beac40daf4c
+  Gas usage: 200613
+  Block number: 2
+  Block time: Tue Nov 08 2022 11:00:13 GMT+0900 (Korean Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_version
+eth_accounts
+eth_call
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_version
+eth_estimateGas
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x93ba82c3fc8587ac90fc40cd8df6f9f6cb5321fee573b47cf882ff48508690b2
+  Contract created: 0x362121d92a462aaa8116302ff7850e2a03f15dc9
+  Gas usage: 200613
+  Block number: 3
+  Block time: Tue Nov 08 2022 11:05:48 GMT+0900 (Korean Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+eth_blockNumber
+net_version
+net_version
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+web3_clientVersion
+web3_clientVersion
+eth_blockNumber
+net_version
+net_version
+web3_clientVersion
+web3_clientVersion
+web3_clientVersion
+web3_clientVersion
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_version
+eth_accounts
+eth_call
+net_listening
+eth_accounts
+net_version
+net_listening
+eth_accounts
+net_version
+net_version
+eth_estimateGas
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x4d1cec802a538d75a1a7d32b523c3d1f3fcbea4ea766ae2875dcb64df09ab5db
+  Contract created: 0xd48dbe6c6fb8aa3e7876af4be376682c4047b8f3
+  Gas usage: 222015
+  Block number: 4
+  Block time: Wed Nov 09 2022 12:11:51 GMT+0900 (Korean Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version

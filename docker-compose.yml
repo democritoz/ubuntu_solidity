@@ -1,0 +1,19 @@
+version: '3'
+
+
+services:
+
+    ubuntu-solidity:
+        build: .
+        image: 'ubuntu-solidity'
+        container_name: 'ubuntu-solidity'
+        ports:
+            - "22003:22"
+            - "19201:8545"
+        stdin_open: true
+        tty: true
+        environment:
+            TZ: "Asia/Seoul"
+        restart: always
+        volumes:
+            - "./log:/workspace/ganache/log"
